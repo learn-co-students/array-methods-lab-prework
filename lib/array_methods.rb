@@ -8,6 +8,7 @@ end
 
 def using_reverse(array)
   array = array.reverse
+  # array.reverse! doesn't seem to work
 end
 
 def using_first(array)
